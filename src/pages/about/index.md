@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: TRUE STORY.
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+My father had a dream that he found a baby with long fingers. When he woke he prophetically proclaimed his unborn son was destined to be a musician. So naturally when I first hit the stage at age 5, it set the unusual precedent for the expansive career to come.
+ 
+A difficult adolescence found me seeking ways to deal with the often-unbearable day to day struggles. I found sanctuary in a community musical theatre company, where my love for all things music and performing was nurtured and grown into a brilliantly burning passion. For 10 years I starred in numerous musical theatre productions and studied every aspect of performance from acting to stage combat choreography to directing, building a resume of hundreds of credits.
+ 
+At the same time, I was experimenting with songwriting and home recording, and began to pour feelings of love and loss into my lyrics. In 2010, my freshman album Under the Radar featured a collection of songs about memories of love, solemn regrets & unrequited longing for something a little beyond ordinary.
+ 
+Now a proud father, my most recent project is a way to wear his heart forever on his sleeve. Heavy rock ballads blend together with vividly poetic descriptions to confess some of those thoughts we sometimes struggle to find the words for.
+ 
+Quoted as having the longest list of musical inspirations a reporter had heard of, I always strive to find new sounds to express the ever-evolving emotions of a love-sick Rockstar.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+@ShenendoahT
